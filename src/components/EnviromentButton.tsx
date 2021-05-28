@@ -50,8 +50,8 @@ const styles = StyleSheet.create({
     color: colors.heading,
     fontFamily: fonts.text
   },
-  textActive:{
+  textActive: {
     fontFamily: fonts.heading,
-    color: colors.green_dark   
+    color: colors.green_dark
   }
 })
